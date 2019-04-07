@@ -1,0 +1,8 @@
+2019-03-22 20:35:38,433 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-03-22 20:35:38,433 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-03-22 20:35:44,347 - BrowserEngine - INFO - 开启谷歌浏览器
+2019-03-22 20:35:45,493 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-22 20:35:55,703 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-22 20:35:55,703 - BrowserEngine - INFO - 设置隐式等待10秒
+2019-03-22 20:35:55,734 - BasePage - ERROR - <pageobjects.login.ForumLoginPage object at 0x0000015B60DE2550> 不能找到 ('name', 'username') 元素
+2019-03-22 20:36:05,828 - BrowserEngine - INFO - 关闭并退出当前窗口
